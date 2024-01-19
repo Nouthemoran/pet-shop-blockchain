@@ -1,0 +1,1 @@
+var Adoption = artifacts.require
